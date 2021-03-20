@@ -15,7 +15,7 @@
     "node": ">=10"
   },
   "dependencies": {
-    "@BakeryProject/bakery-swap-lib": "0.0.1"
+    "@BakeryProject/bakery-swap-lib": "https://github.com/BakeryProject/bakery-swap-lib"
   },
   "devDependencies": {
     "@types/chai": "^4.2.6",
